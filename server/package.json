@@ -1,0 +1,19 @@
+{
+	"name": "formacion-mean",
+	"version": "1.0.0",
+	"description": "Formación MEAN Stack",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./bin/www"
+	},
+	"author": "DxD",
+	"license": "ISC",
+	"dependencies": {
+		"bluebird": "^3.5.1",
+		"body-parser": "^1.18.2",
+		"express": "^4.16.3",
+		"mongoose": "^5.0.12",
+		"morgan": "^1.9.0",
+		"serve-favicon": "^2.5.0"
+	}
+}
